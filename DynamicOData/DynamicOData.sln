@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicOData.WebAPI", "DynamicOData.WebAPI\DynamicOData.WebAPI.csproj", "{31022BDF-9F6A-4BE6-A4F8-E9B8DB263465}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicOData.Dynamic", "DynamicOData.Dynamic\DynamicOData.Dynamic.csproj", "{A2DAF01B-6DBD-4603-8C9A-DE8E7E1B2617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{31022BDF-9F6A-4BE6-A4F8-E9B8DB263465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31022BDF-9F6A-4BE6-A4F8-E9B8DB263465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31022BDF-9F6A-4BE6-A4F8-E9B8DB263465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DAF01B-6DBD-4603-8C9A-DE8E7E1B2617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DAF01B-6DBD-4603-8C9A-DE8E7E1B2617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DAF01B-6DBD-4603-8C9A-DE8E7E1B2617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DAF01B-6DBD-4603-8C9A-DE8E7E1B2617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

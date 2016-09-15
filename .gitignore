@@ -2,3 +2,5 @@ DynamicOData/.vs/
 DynamicOData/packages/
 DynamicOData/DynamicOData.WebAPI/bin/
 DynamicOData/DynamicOData.WebAPI/obj/Debug/
+DynamicOData/DynamicOData.Dynamic/bin/Debug/
+DynamicOData/DynamicOData.Dynamic/obj/Debug/
